@@ -78,4 +78,5 @@ exactly Shakespeare ..."
 
 
 [1] K Lindgren and M Nordahl (1992), "Komplext men ganska enkelt", p 75 in *Kosmos 1992* (in Swedish).
+
 [2] N Graham, "Introduction to Pascal", 2nd edition, Castle House Publications, 1983.
